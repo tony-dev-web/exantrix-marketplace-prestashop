@@ -1,0 +1,29 @@
+{
+    "name": "exantrix/prestashop-marketplace",
+    "description": "Module PrestaShop 1.7 / 8 : vendez vos produits sur la marketplace Exantrix (catalogue et stock synchronises, commandes recues automatiquement).",
+    "type": "prestashop-module",
+    "keywords": ["prestashop", "module", "marketplace", "exantrix", "3d-printing", "dtf"],
+    "homepage": "https://exantrix.com/extensions/prestashop",
+    "license": "MIT",
+    "authors": [
+        {"name": "Exantrix", "email": "coucou@exantrix.com", "homepage": "https://exantrix.com"}
+    ],
+    "support": {
+        "issues": "https://github.com/tony-dev-web/exantrix-marketplace-prestashop/issues",
+        "source": "https://github.com/tony-dev-web/exantrix-marketplace-prestashop",
+        "docs": "https://exantrix.com/extensions/prestashop"
+    },
+    "require": {
+        "php": ">=7.4",
+        "ext-curl": "*",
+        "ext-json": "*"
+    },
+    "require-dev": {
+        "prestashop/php-dev-tools": "^5.0"
+    },
+    "config": {
+        "prepend-autoloader": false,
+        "allow-plugins": {"prestashop/php-dev-tools": false}
+    },
+    "minimum-stability": "stable"
+}
