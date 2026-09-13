@@ -18,3 +18,9 @@ Vendez vos produits sur la marketplace française [Exantrix](https://exantrix.co
 Standard de code PrestaShop : `php-cs-fixer fix --config=.php-cs-fixer.dist.php` (config `prestashop/php-dev-tools`).
 
 Licence MIT.
+
+## Les extensions Exantrix
+
+- [WordPress / WooCommerce](https://github.com/tony-dev-web/exantrix-marketplace-wordpress)
+- [Shopify](https://github.com/tony-dev-web/exantrix-marketplace-shopify)
+- Site et API : [exantrix.com](https://github.com/tony-dev-web/exantrix.com) (source de la marketplace, Django) — https://exantrix.com/extensions/
