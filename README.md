@@ -1,5 +1,7 @@
 # Exantrix marketplace pour PrestaShop 1.7 / 8
 
+Module pour [PrestaShop](https://www.prestashop.com) (code source officiel : [github.com/PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop)).
+
 Vendez vos produits sur la marketplace française [Exantrix](https://exantrix.com) depuis votre boutique PrestaShop : catalogue et stock synchronisés, commandes Exantrix reçues dans le module et par email.
 
 **Page et guide d'installation** : https://exantrix.com/extensions/prestashop
@@ -18,6 +20,12 @@ Vendez vos produits sur la marketplace française [Exantrix](https://exantrix.co
 Standard de code PrestaShop : `php-cs-fixer fix --config=.php-cs-fixer.dist.php` (config `prestashop/php-dev-tools`).
 
 Licence MIT.
+
+## Plateformes : sites et sources
+
+| Plateforme | Site officiel | Code source | Documentation développeur |
+|---|---|---|---|
+| PrestaShop | https://www.prestashop.com · https://www.prestashop-project.org | https://github.com/PrestaShop/PrestaShop | https://devdocs.prestashop-project.org/8/modules/ |
 
 ## Les extensions Exantrix
 
