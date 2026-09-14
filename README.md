@@ -25,4 +25,6 @@ Licence MIT.
 - [Shopify](https://github.com/tony-dev-web/exantrix-marketplace-shopify)
 - [Magento 2](https://github.com/tony-dev-web/exantrix-marketplace-magento)
 - [Drupal Commerce](https://github.com/tony-dev-web/exantrix-marketplace-drupal)
+- [CSV / Excel, Odoo, Dolibarr (sans installation)](https://github.com/tony-dev-web/exantrix-marketplace-connecteurs)
+- [API : collection Postman et OpenAPI](https://github.com/tony-dev-web/exantrix-api)
 - Site et API : [exantrix.com](https://github.com/tony-dev-web/exantrix.com) (source de la marketplace, Django) — https://exantrix.com/extensions/
